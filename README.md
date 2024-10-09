@@ -1,2 +1,2 @@
 # .github
-**GitHub for Cylvarkana**
+**GitHub Configs for Cylvarkana**

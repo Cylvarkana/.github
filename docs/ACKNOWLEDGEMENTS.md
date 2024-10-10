@@ -4,7 +4,7 @@ Cylvarkana is an open-source project built with the contributions of an amazing 
 
 Below, we acknowledge the individuals, organizations, and resources that have been instrumental in our journey.
 
-## Formatting
+## 🛠️ Formatting
 
 ---
 
@@ -16,4 +16,4 @@ Below, we acknowledge the individuals, organizations, and resources that have be
 
 ---
 
-## Contributors
+## ✨ Contributors

@@ -14,7 +14,7 @@ Cylvarkana is excited to offer the following features:
 Our projects include:
 
 ## 🤝Contributing
-Contributions are welcome! Please read the [CONTRIBUTING.md](../docs/CONTRIBUTING.md) for details on how to get involved.
+Contributions are welcome! Please read the CONTRIBUTING.md for details on how to get involved with a specific project.
 
 ## 📜 License
 

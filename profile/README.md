@@ -16,6 +16,8 @@ Our projects include:
 ## 🤝Contributing
 Contributions are welcome! Please read the CONTRIBUTING.md for details on how to get involved with a specific project.
 
+>  [Read our GitHub Organization Documents](../README.md)
+
 ## 📜 License
 
 ![Creative Commons](https://img.shields.io/badge/Creative_Commons-4.0-white.svg?logo=creativecommons)

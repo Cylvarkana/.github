@@ -1,13 +1,13 @@
-#  .github
+# 🚀.github
 **GitHub Configs for Cylvarkana**
 
-## 💎 Profile
+## Profile
 Houses additional files that support the content of the profile or enrich the organization’s presentation.
 
-## 🧰 Assets
+## Assets
 Public Cylvarkana assets such as logos, favicons, and other media related items.
 
-## 📜 Documents
+## Documents
 - [Code of Conduct](./docs/CODE_OF_CONDUCT.md): Defines expected behavior for all contributors and members of the community.
 - [Contributing Guidelines](./docs/CONTRIBUTING.md): Guidelines for contributing to the project, including how to file issues and submit pull requests.
 - [Security Policy](./docs/SECURITY.md): Instructions for reporting vulnerabilities and understanding the project's security policy.

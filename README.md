@@ -9,5 +9,9 @@
 - [Pull Request Template](./docs/PULL_REQUEST_TEMPLATE.md): A template that ensures all pull requests include necessary information and context for a smooth review process.
 - [Feature Request Template](./docs/FEATURE_REQUEST_TEMPLATE.md): A dedicated template for submitting feature requests, to help streamline the process of proposing new ideas.
 - [Acknowledgments](./docs/ACKNOWLEDGEMENTS.md): Summary list of other projects, organizations, and contributors Cylvarkana would like to publicly thank.
+  
 ## Assets
 Public Cylvarkana assets such as logos, favicons, and other media related items.
+
+## Profile
+Houses additional files that support the content of the profile or enrich the organization’s presentation.

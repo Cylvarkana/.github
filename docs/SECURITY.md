@@ -1,6 +1,6 @@
 # Security Policy
 
-## Supported Versions
+## 💎 Supported Versions
 
 We take security seriously at Cylvarkana. The following versions of our projects are currently being supported with security updates:
 
@@ -10,7 +10,7 @@ We take security seriously at Cylvarkana. The following versions of our projects
 
 We encourage users to upgrade to the latest supported version to benefit from the latest security patches and improvements.
 
-## Reporting a Vulnerability
+## 🐛 Reporting a Vulnerability
 
 If you find a security vulnerability in one of our projects, please let us know as soon as possible. We appreciate your help in keeping Cylvarkana and our users safe.
 
@@ -26,7 +26,7 @@ To report a vulnerability, please follow these steps:
 
 We will review your report promptly and work with you to understand and resolve the issue.
 
-## Our Response
+## 🤝 Our Response
 
 We appreciate your help in making Cylvarkana more secure. Please understand that this is an open-source project, and we are a small team working in our free time. While we strive to address security concerns promptly, our ability to respond might vary depending on the complexity of the issue and our availability.
 

@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# 📜 Contributor Covenant Code of Conduct
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in the **Cylvarkana** project and community a harassment-free experience for everyone, regardless of age, body size, abilities, ethnicity, experience, education, socioeconomic status, nationality, personal appearance, race, or religion.
@@ -36,7 +36,7 @@ This Code of Conduct applies within all community spaces, and it also applies wh
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [contact@kodamachameleon.com]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at **contact@kodamachameleon.com**. All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 

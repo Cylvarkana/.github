@@ -9,6 +9,7 @@ We are dedicated to supporting the open-source community by creating tools that 
 
 ## ✨ Features
 Cylvarkana is excited to offer the following features:
+- [Cylvarkana-Django](https://github.com/Cylvarkana/Cylvarkana-Django)
 
 ## 🧰 Projects
 Our projects include:
